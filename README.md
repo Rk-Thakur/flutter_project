@@ -1,10 +1,10 @@
-# corona
+# Corona App
 
-A new Flutter project.
+A Corona App with Dio and Riverpod.....
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Covid Data fetch from (https://disease.sh/v3/covid-19/countries/) API
 
 A few resources to get you started if this is your first Flutter project:
 
