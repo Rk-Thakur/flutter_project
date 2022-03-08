@@ -4,7 +4,7 @@ A Quotes App with Dio and Riverpod with all quotes categories where u can share 
 
 ## Getting Started
 
-Quotes Data fetch from (https://famous-quotes4.p.rapidapi.com/random) API
+Quotes Data fetch from (Quotes) API
 
 ## ScreenShots:
 
