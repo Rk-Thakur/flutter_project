@@ -132,7 +132,8 @@ class countries_list extends StatelessWidget {
                                                             .countryinfo.flag),
                                                   ),
                                                   subtitle: Text(
-                                                    dat.cases.toString(),
+                                                    'Cases: ' +
+                                                        dat.cases.toString(),
                                                     style: TextStyle(height: 2),
                                                   ),
                                                 ),
