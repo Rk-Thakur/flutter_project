@@ -4,7 +4,7 @@ A Quotes App with Dio and Riverpod with all quotes categories where u can share 
 
 ## Getting Started
 
-Quotes Data fetch from (Quotes) API
+Quotes Data fetch from (Quote) API
 
 ## ScreenShots:
 
